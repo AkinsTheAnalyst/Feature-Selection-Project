@@ -3,13 +3,13 @@
 
 # Student Resource 3
 
-## 📌 Description
+## Description
 
 > The Student Resource 3 consists of two learning resources teaching on Feature Selection and below are more details into it. 
 
 ---
 
-## 📚 Project Overview
+## Project Overview
 
 **Student Resource 3** is a machine learning learning resource focused on **Feature Selection** and the different approaches used to identify the most relevant features for a machine learning model.
 
@@ -19,7 +19,7 @@ The project is designed to build an understanding of **why feature selection is 
 
 ---
 
-# 📖 Version 1
+# Version 1
 
 ## Overview
 
@@ -68,7 +68,7 @@ Uses randomized **shadow features** as a reference for determining whether origi
 
 ---
 
-# 📘 Version 2
+# Version 2
 
 ## Overview
 
@@ -130,7 +130,7 @@ Techniques explored include:
 
 ---
 
-# 🔎 Topics and Techniques Across Both Versions
+# Topics and Techniques Across Both Versions
 
 Across Version 1 and Version 2, Student Resource 3 explores the following major areas:
 
@@ -151,13 +151,13 @@ Across Version 1 and Version 2, Student Resource 3 explores the following major 
 
 ---
 
-# 🗂️ Repository Navigation
+# Repository Navigation
 
 > You will find 4 files in this repository plus the readme file. Two of the files are the documentations and the other two files are python files which are the code replications of the project.
 
 ---
 
-# 💡 Key Takeaways
+# Key Takeaways
 
 ## From Version 1
 
@@ -183,7 +183,7 @@ Across Version 1 and Version 2, Student Resource 3 explores the following major 
 
 ---
 
-# 🎯 Overall Learning Outcome
+# Overall Learning Outcome
 
 By completing both versions of **Student Resource 3**, the learner should develop a clearer understanding of **why feature selection matters, how relevant features can be identified, and how different feature selection approaches differ in their methodology, computational requirements, and relationship with machine learning models.**
 
@@ -191,7 +191,7 @@ The two versions collectively provide a foundation for making more informed deci
 
 ---
 
-## 📝 Conclusion
+## Conclusion
 
 Student Resource 3 provides a structured exploration of **Feature Selection in Machine Learning**, progressing from fundamental concepts and individual techniques in Version 1 to a broader classification and comparison of selection methods in Version 2.
 
